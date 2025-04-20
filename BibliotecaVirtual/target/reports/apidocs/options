@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'C:/Users/Usuario/Documents/NetBeansProjects/BibliotecaVirtual/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Documents/NetBeansProjects/BibliotecaVirtual/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BibliotecaVirtual 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'BibliotecaVirtual 1.0-SNAPSHOT API'
